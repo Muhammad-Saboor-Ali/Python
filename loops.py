@@ -1,6 +1,6 @@
 
 # For Loop
-print("1. For Loop Example")
+print(" For Loop Example")
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
@@ -45,3 +45,4 @@ for n in range(3):
     print(n)
 else:
     print("Loop completed without break!")
+
