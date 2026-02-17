@@ -78,7 +78,7 @@ shop = BikeRental(20)   # 20 bikes in stock
 customer = Customer()
 
 while True:
-    print("\n===== Bike Rental System =====")
+    print("\n Bike Rental System ")
     print("1. Display available bikes")
     print("2. Rent bike on hourly basis (Rs.150 per hour)")
     print("3. Rent bike on daily basis (Rs.2500 per day)")
@@ -113,3 +113,4 @@ while True:
 
     else:
         print("Invalid choice! Please try again.")
+
